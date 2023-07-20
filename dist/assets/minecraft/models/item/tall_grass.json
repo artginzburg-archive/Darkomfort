@@ -1,0 +1,7 @@
+{	
+		"__comment": "Shorter Tall Grass (VanillaTweaks)",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/tall_grass"
+    }
+}

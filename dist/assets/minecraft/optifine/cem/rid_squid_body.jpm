@@ -1,0 +1,94 @@
+{
+  "comment": "Made by Mickey Joe Alpha",
+  "createdWith": "Cubik Studio",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "boxes": [
+        {
+          "coordinates": [-8.0,-3.0,0.0,8.0,3.0,8.0],
+          "uvDown": [16,0,24,8],
+          "uvUp": [8,0,16,8],
+          "uvNorth": [8,8,16,11],
+          "uvSouth": [24,8,32,11],
+          "uvWest": [16,8,24,11],
+          "uvEast": [0,8,8,11]
+        }
+      ]
+    },
+    {
+      "id": "e1_Box2",
+      "translate": [-1.0,-3.0,1.0],
+      "boxes": [
+        {
+          "coordinates": [-6.0,-3.0,0.0,6.0,3.0,6.0],
+          "uvNorth": [30,0,36,3],
+          "uvSouth": [42,0,48,3],
+          "uvWest": [36,0,42,3],
+          "uvEast": [24,0,30,3]
+        }
+      ]
+    },
+    {
+      "id": "e2_Box3",
+      "translate": [1.0,-3.0,3.0],
+      "boxes": [
+        {
+          "coordinates": [-2.0,-2.0,0.0,2.0,2.0,2.0],
+          "uvDown": [0,0,2,2],
+          "uvUp": [0,0,2,2],
+          "uvNorth": [2,0,4,2],
+          "uvSouth": [0,0,2,2],
+          "uvWest": [0,2,2,4],
+          "uvEast": [0,0,2,2]
+        }
+      ]
+    },
+    {
+      "id": "e3_Box4",
+      "translate": [-7.0,-3.0,3.0],
+      "boxes": [
+        {
+          "coordinates": [-2.0,-2.0,0.0,2.0,2.0,2.0],
+          "uvDown": [2,0,4,2],
+          "uvUp": [2,0,4,2],
+          "uvNorth": [0,0,2,2],
+          "uvSouth": [2,0,4,2],
+          "uvWest": [12,22,20,26],
+          "uvEast": [2,2,4,4]
+        }
+      ]
+    },
+    {
+      "id": "e4_Box5",
+      "translate": [0.0,-6.0,0.0],
+      "boxes": [
+        {
+          "coordinates": [-8.0,-3.0,0.0,8.0,3.0,8.0],
+          "uvDown": [16,11,24,19],
+          "uvUp": [8,11,16,19],
+          "uvNorth": [8,19,16,22],
+          "uvSouth": [24,19,32,22],
+          "uvWest": [16,19,24,22],
+          "uvEast": [0,19,8,22]
+        }
+      ]
+    },
+    {
+      "id": "e5_Box6",
+      "translate": [1.0,-9.0,-1.0],
+      "boxes": [
+        {
+          "coordinates": [-10.0,-10.0,0.0,10.0,10.0,10.0],
+          "uvDown": [0,22,10,32],
+          "uvUp": [10,22,20,32],
+          "uvNorth": [20,22,30,32],
+          "uvSouth": [30,22,40,32],
+          "uvWest": [40,22,50,32],
+          "uvEast": [50,22,60,32]
+        }
+      ]
+    }
+  ]
+}

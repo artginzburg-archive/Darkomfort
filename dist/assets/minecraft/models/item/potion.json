@@ -1,0 +1,8 @@
+{
+		"__comment": "Gets rid of separate potion.png file which is identical to glass_bottle.png",
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/glass_bottle"
+    }
+}

@@ -1,0 +1,7 @@
+{
+		"__comment": "DiminishingTools (VanillaTweaks)",
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/shears_04"
+    }
+}

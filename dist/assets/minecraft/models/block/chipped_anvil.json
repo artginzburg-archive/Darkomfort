@@ -1,0 +1,7 @@
+{
+  "__comment": "anvilSides (Little Improvements: Custom)",
+  "parent": "minecraft:block/template_chipped_anvil",
+  "textures": {
+    "top": "minecraft:block/chipped_anvil_top"
+  }
+}

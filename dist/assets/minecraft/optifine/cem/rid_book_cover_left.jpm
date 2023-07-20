@@ -1,0 +1,22 @@
+{
+  "comment": "Made by Mickey Joe Alpha",
+  "createdWith": "Cubik Studio",
+  "textureSize": [64,32],
+  "submodels": [
+    {
+      "id": "e0_Box1",
+      "translate": [-9.536743E-07,-5.99999952,0.0],
+      "boxes": [
+        {
+          "coordinates": [-6.0,-10.0,0.0,6.0,10.0,1.0],
+          "uvDown": [22,9,28,10],
+          "uvUp": [22,0,28,1],
+          "uvNorth": [16,0,22,10],
+          "uvSouth": [22,0,28,10],
+          "uvWest": [22,0,23,10],
+          "uvEast": [27,0,28,10]
+        }
+      ]
+    }
+  ]
+}

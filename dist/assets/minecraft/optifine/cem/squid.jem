@@ -1,0 +1,68 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_squid_body.jpm",
+      "part": "body", 
+	  "attach": false,
+      "translate": [ 4, 8, -4],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_squid_arm.jpm",
+      "part": "tentacle1", 
+	  "attach": false,
+      "translate": [ 1, 17, -2.25],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_squid_arm.jpm",
+      "part": "tentacle2", 
+	  "attach": false,
+      "translate": [ 1, 17, -1.3],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_squid_arm.jpm",
+      "part": "tentacle3", 
+	  "attach": false,
+      "translate": [ 1, 17, -2.25],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_squid_arm.jpm",
+      "part": "tentacle4", 
+	  "attach": false,
+      "translate": [ 1, 17, -1.3],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_squid_arm.jpm",
+      "part": "tentacle5", 
+	  "attach": false,
+      "translate": [ 1, 17, -2.25],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_squid_arm.jpm",
+      "part": "tentacle6", 
+	  "attach": false,
+      "translate": [ 1, 17, -1.3],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_squid_arm.jpm",
+      "part": "tentacle7", 
+	  "attach": false,
+      "translate": [ 1, 17, -2.25],
+      "rotate": [0, 0, 0]
+    },
+    {
+      "model": "rid_squid_arm.jpm",
+      "part": "tentacle8", 
+	  "attach": false,
+      "translate": [ 1, 17, -1.3],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

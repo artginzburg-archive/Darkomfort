@@ -1,0 +1,20 @@
+{
+  "__comment": "anvilSides (Little Improvements: Custom)",
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/chipped_anvil",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "minecraft:block/chipped_anvil",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "minecraft:block/chipped_anvil"
+    },
+    "facing=west": {
+      "model": "minecraft:block/chipped_anvil",
+      "y": 90
+    }
+  }
+}

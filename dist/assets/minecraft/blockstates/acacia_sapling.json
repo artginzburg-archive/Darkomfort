@@ -1,0 +1,15 @@
+{
+	"__comment": "Visualises the Sapling growth stages by making them taller on their second stage. (VanillaTweaks)",
+  "variants": {
+    "stage=0": [
+	  { 
+	    "model": "block/acacia_sapling"
+	  }
+    ],
+	"stage=1": [
+	  { 
+	    "model": "block/large_acacia_sapling"
+	  }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+		"__comment": "Adds the ability to separate Enchanted and regular Golden Apple textures",
+    "parent": "item/smaller_util",
+    "textures": {
+        "layer0": "item/enchanted_golden_apple"
+    }
+}

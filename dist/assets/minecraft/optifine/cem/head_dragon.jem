@@ -1,0 +1,26 @@
+{
+  "models": 
+  [
+    {
+      "model": "rid_dragon_head.jpm",
+      "part": "head", 
+	  "attach": false,
+      "translate": [ 7.5, 8, -11.5],
+      "rotate": [0, 0, 0]
+    },
+	{
+      "model": "rid_dragon_horns.jpm",
+      "part": "head", 
+	  "attach": true,
+      "translate": [ 7.5, 13, -5.5],
+      "rotate": [30, 0, 0]
+    },
+	{
+      "model": "rid_dragon_jaw.jpm",
+      "part": "jaw", 
+	  "attach": false,
+      "translate": [ 7.5, 4, -3],
+      "rotate": [0, 0, 0]
+    }
+  ]
+}

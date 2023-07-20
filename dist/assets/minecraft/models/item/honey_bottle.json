@@ -1,0 +1,8 @@
+{
+		"__comment": "Applies glass_bottle.png texture for consistency",
+    "parent": "item/smaller_util",
+    "textures": {
+        "layer0": "item/honey_bottle",
+    		"layer1": "item/glass_bottle"
+    }
+}

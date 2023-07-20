@@ -1,0 +1,7 @@
+{
+	"__comment": "Adds current note indication (Mickey Joe Alpha)",
+    "parent": "block/note_block_pitch_1",
+    "textures": {
+        "pitch": "block/note_block_pitch/20"
+    }
+}
