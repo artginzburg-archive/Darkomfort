@@ -1,7 +1,0 @@
-{
-		"__comment": "DiminishingTools (VanillaTweaks)",
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "item/flint_and_steel_04"
-    }
-}
