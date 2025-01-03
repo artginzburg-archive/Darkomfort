@@ -61,3 +61,25 @@ TODO! look closer
 bow_pulling_2 — TODO change red to more pleasing flashy color
 
 other bow-related - verified
+
+brewing_stand - verified
+
+compass - verified
+
+empty_armor_slot_shield - verified
+
+enchanted_book - not confirmed, looks like it's just vanilla book
+
+enchanting_table_book - verified
+
+end_crystal - verified
+
+glass_bottle - verified
+
+nether_brick - verified
+
+potion_overlay - verified
+
+splash_potion - verified
+
+totem_of_undying - verified
