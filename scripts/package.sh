@@ -1,1 +1,1 @@
-find ./dist/ ! -path '*temporary hidden*' -name '*.png' -o -name '*.mcmeta' | cpio -p -dumv ./build/
+find ./dist/ ! -path '*temporary hidden*' -name '*.png' -o -name '*.mcmeta' -o -name '*.json' | cpio -p -dumv ./build/
