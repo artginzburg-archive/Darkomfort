@@ -20,7 +20,7 @@ end portal frames - not verified, but they make sense
 
 ### item
 
-enchanting table - NW, removed
+enchanting table - NW, remove or fix
 
 potion - verified
 
@@ -29,3 +29,35 @@ potion - verified
 splashes - verified
 
 ## textures
+
+### block
+
+verified
+
+### entity
+
+end_crystal - verified
+
+wither - not finished, but ready parts work properly
+
+beacon_beam - verified
+
+enchanting_table_book - verified
+
+end_gateway_beam - verified
+
+fishing_hook - verified
+
+### font
+
+verified
+
+### gui
+
+TODO! look closer
+
+### item
+
+bow_pulling_2 — TODO change red to more pleasing flashy color
+
+other bow-related - verified
