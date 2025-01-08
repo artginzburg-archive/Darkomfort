@@ -1,0 +1,1 @@
+- [] Figure out why enchanting_table's item model works fine on 1.21.3, but is broken on 1.21.4. If they changed something — it should be easy to fix.
