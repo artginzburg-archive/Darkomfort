@@ -35,6 +35,21 @@
                 "maximum": 46,
                 "minimum": 1
               },
+              "supported_formats": {
+                "default": [35, 46],
+                "type": "array",
+                "title": "Supported pack_formats",
+                "minItems": 2,
+                "maxItems": 2,
+                "items": {
+                  "default": 46,
+                  "type": "integer",
+                  "title": "Resource pack version",
+                  "description": "https://minecraft.wiki/w/Pack_format",
+                  "maximum": 46,
+                  "minimum": 1
+                }
+              },
               "description": {
                 "type": "string",
                 "title": "Pack description",
