@@ -1,4 +1,5 @@
 {
   "container.enchant": "§b§k..§r§6Enchant§b§k..",
-  "container.crafting": ""
+  "container.crafting": "",
+  "block.minecraft.bed.not_safe": "You may not rest now; there are hot singles nearby"
 }
