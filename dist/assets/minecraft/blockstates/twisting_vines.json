@@ -1,0 +1,7 @@
+{
+	"__comment": "Adds flowers to the top of twisting vines plants when they are fully grown. [age=25] (NewDefault+)",
+  "variants": {
+      "age=25": { "model": "block/twisting_vines_age_25" },
+      "normal": { "model": "block/twisting_vines" }
+    }
+}
