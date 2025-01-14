@@ -23,7 +23,6 @@ Packs:
 	LowerShield
 	UnobtrusiveScaffolding
 	ClearBannerPatterns
-	ArabicNumerals
 	VisualSaplingGrowth
 	VisualComposterStages
 	VisualHoney
@@ -33,7 +32,6 @@ Packs:
 	DirectionalDispensersDroppers
 	DirectionalHoppers
 	MusicDiscRedstonePreview
-	HungerPreview
 	Age25Kelp
 	FullAgeAmethystMarker
 	VisualWaxedCopperItems
