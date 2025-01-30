@@ -1,3 +1,3 @@
 all:
 	sh ./scripts/package.sh ; \
-	sh ./scripts/sync.sh
+	dotenvx run --quiet --convention=nextjs -- sh ./scripts/sync.sh
