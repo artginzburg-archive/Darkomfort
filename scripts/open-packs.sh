@@ -1,0 +1,1 @@
+open "$PATH_TO_RESOURCEPACKS/../"
