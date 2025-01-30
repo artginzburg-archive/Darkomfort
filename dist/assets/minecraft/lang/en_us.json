@@ -4,5 +4,6 @@
   "container.crafting": "",
   "block.minecraft.bed.not_safe": "You may not rest now; there are hot singles nearby",
   "lanServer.scanning": "",
-  "selectWorld.version": "v:"
+  "selectWorld.version": "v:",
+  "multiplayer.title": ""
 }
