@@ -5,5 +5,11 @@
   "block.minecraft.bed.not_safe": "You may not rest now; there are hot singles nearby",
   "lanServer.scanning": "",
   "selectWorld.version": "v:",
-  "multiplayer.title": ""
+  // Modular Respacks: Minimal UI
+  "multiplayer.title": "",
+  // Modular Respacks: mod/ui-keybinds
+  "selectServer.select": "§7[§rEnter§7]",
+  "selectServer.direct": "by IP",
+  "selectServer.add": "§7[§rA§7]§rdd",
+  "selectServer.refresh": "§7[§rR§7]§refresh"
 }
