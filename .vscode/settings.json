@@ -106,20 +106,9 @@
         ]
       }
     },
-    {
-      "fileMatch": [
-        "*.json"
-      ],
-      "schema": {
-        "allowTrailingCommas": true,
-      }
-    }
   ],
   "files.associations": {
     "*.mcmeta": "json",
     "en_us.json": "jsonc"
-  },
-  "[jsonc]": {
-    "editor.defaultFormatter": "vscode.json-language-features",
   }
 }
