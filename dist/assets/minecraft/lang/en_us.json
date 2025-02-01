@@ -8,5 +8,13 @@
   "lanServer.scanning": "",
   "container.crafting": "",
   // Modular Respacks: macOS UI Keybinds
-  "menu.quit": "Quit §7[§r^Q§7]"
+  "menu.quit": "Quit §7[§r^Q§7]",
+  // Modular Respacks: Useful Subtitles
+  "subtitles.entity.zombie.infect": "§6Zombie infects Villager §r⚗❤",
+  "subtitles.entity.zombie_villager.converted": "§6Zombie Villager cured §r⚡",
+  // Modular Respacks: Useful status messages
+  "connect.connecting": "Connecting to the server... §3(25%)",
+  "connect.authorizing": "Logging in... §3(50%)",
+  "connect.encrypting": "Encrypting... §3(75%)",
+  "connect.joining": "Joining world... §3(100%)"
 }
