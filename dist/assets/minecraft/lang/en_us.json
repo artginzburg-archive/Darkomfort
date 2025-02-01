@@ -6,5 +6,7 @@
   // Modular Respacks: Minimal UI
   "multiplayer.title": "",
   "lanServer.scanning": "",
-  "container.crafting": ""
+  "container.crafting": "",
+  // Modular Respacks: macOS UI Keybinds
+  "menu.quit": "Quit §7[§r^Q§7]"
 }
