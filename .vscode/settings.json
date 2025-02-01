@@ -1,7 +1,9 @@
 {
   "json.schemas": [
     {
-      "fileMatch": ["pack.mcmeta"],
+      "fileMatch": [
+        "pack.mcmeta"
+      ],
       "url": "https://raw.githubusercontent.com/Levertion/minecraft-json-schemas/master/java/data/pack.mcmeta.json",
       "schema": {
         "type": "object",
@@ -36,7 +38,10 @@
                 "minimum": 1
               },
               "supported_formats": {
-                "default": [35, 46],
+                "default": [
+                  35,
+                  46
+                ],
                 "type": "array",
                 "title": "Supported pack_formats",
                 "minItems": 2,
@@ -56,13 +61,22 @@
                 "description": "The description for this pack. Any text which doesn't fit on two lines will be removed"
               }
             },
-            "required": ["pack_format"]
+            "required": [
+              "pack_format"
+            ]
           },
           "language": {
             "type": "object",
             "title": "Custom languages",
             "defaultSnippets": [
-              { "body": { "$1": { "name": "$2", "region": "$3" } } }
+              {
+                "body": {
+                  "$1": {
+                    "name": "$2",
+                    "region": "$3"
+                  }
+                }
+              }
             ],
             "description": "Each sub-object is the internal code for the language, which the pack's lang folder has a language file with the name <code>.lang",
             "additionalProperties": {
@@ -87,12 +101,25 @@
             }
           }
         },
-        "required": ["pack"]
+        "required": [
+          "pack"
+        ]
+      }
+    },
+    {
+      "fileMatch": [
+        "*.json"
+      ],
+      "schema": {
+        "allowTrailingCommas": true,
       }
     }
   ],
   "files.associations": {
     "*.mcmeta": "json",
     "en_us.json": "jsonc"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
   }
 }
