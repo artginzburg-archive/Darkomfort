@@ -7,6 +7,9 @@
   "multiplayer.title": "",
   "lanServer.scanning": "",
   "container.crafting": "",
+  // Modular Respacks: Logical GUI
+  "gui.done": "Save",
+  "selectServer.direct": "by IP",
   // Modular Respacks: macOS UI Keybinds
   "menu.quit": "Quit §7[§r^Q§7]",
   // Modular Respacks: Useful Subtitles
