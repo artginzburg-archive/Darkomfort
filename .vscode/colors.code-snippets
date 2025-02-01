@@ -1,0 +1,114 @@
+{
+	"Color: Black": {
+		"scope": "jsonc",
+		"prefix": "$color-black",
+		"body": [
+			"§0"
+		],
+	},
+  "Color: Dark Blue": {
+		"scope": "jsonc",
+		"prefix": "$color-dark-blue",
+		"body": [
+			"§1"
+		],
+	},
+  "Color: Dark Green": {
+    "scope": "jsonc",
+    "prefix": "$color-dark-green",
+    "body": [
+      "§2"
+    ],
+  },
+  "Color: Dark Aqua": {
+    "scope": "jsonc",
+    "prefix": "$color-dark-aqua",
+    "body": [
+      "§3"
+    ],
+  },
+  "Color: Dark Red": {
+    "scope": "jsonc",
+    "prefix": "$color-dark-red",
+    "body": [
+      "§4"
+    ],
+  },
+  "Color: Dark Purple": {
+    "scope": "jsonc",
+    "prefix": "$color-dark-purple",
+    "body": [
+      "§5"
+    ],
+  },
+  "Color: Gold": {
+    "scope": "jsonc",
+    "prefix": "$color-gold",
+    "body": [
+      "§6"
+    ],
+  },
+  "Color: Light Gray": {
+    "scope": "jsonc",
+    "prefix": "$color-light-gray",
+    "body": [
+      "§7"
+    ],
+  },
+  "Color: Dark Gray": {
+    "scope": "jsonc",
+    "prefix": "$color-dark-gray",
+    "body": [
+      "§8"
+    ],
+  },
+  "Color: Blue": {
+    "scope": "jsonc",
+    "prefix": "$color-blue",
+    "body": [
+      "§9"
+    ],
+  },
+  "Color: Green": {
+    "scope": "jsonc",
+    "prefix": "$color-green",
+    "body": [
+      "§a"
+    ],
+  },
+  "Color: Aqua": {
+    "scope": "jsonc",
+    "prefix": "$color-aqua",
+    "body": [
+      "§b"
+    ],
+  },
+  "Color: Red": {
+    "scope": "jsonc",
+    "prefix": "$color-red",
+    "body": [
+      "§c"
+    ],
+  },
+  "Color: Light Purple": {
+    "scope": "jsonc",
+    "prefix": "$color-light-purple",
+    "body": [
+      "§d"
+    ],
+  },
+  "Color: Yellow": {
+    "scope": "jsonc",
+    "prefix": "$color-yellow",
+    "body": [
+      "§e"
+    ],
+  },
+  "Color: White": {
+    "scope": "jsonc",
+    "prefix": "$color-white",
+    "body": [
+      "§f"
+    ],
+  },
+}
