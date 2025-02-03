@@ -1,27 +1,17 @@
 Vanilla Tweaks Resource Pack
 Version: 1.21
 Packs:
-	DoubleSlabFix
-	BlazeFix
-	PixelConsistentSigns
-	PixelConsistentGhast
-	ConsistentUIFix
-	UniqueDyes
-	ScreamingGoatMeme
-	WhatSpyglassMeme
-	OldCobblestone
-	OldDamageSounds
-	BedIcons
-	PingColorIndicator
-	WitherHearts
-	NoJavaEditionTitle
-	HotbarSlotHighlight
-	NumberedHotbar
-	SmallerUtilities
-	ShortSwords
-	NoPumpkinOverlay
-	LowerShield
-	UnobtrusiveScaffolding
+	EnderDragonElytra
+	FencierFences
+	SplashXpBottle
+	AshlessCampfires
+	AnimatedCampfireItem
+	DarkOakSaturation
+	BlackNetherBricks
+	ShorterTallGrass
+	ShorterGrass
+	ClearerWater
+	DarkerDarkOakLeaves
 	ClearBannerPatterns
 	VisualSaplingGrowth
 	VisualComposterStages
@@ -39,18 +29,28 @@ Packs:
 	BuddingAmethystBorders
 	SuspiciousSandGravelBorders
 	NoteblockBanners
-	ShorterTallGrass
-	ShorterGrass
-	ClearerWater
-	DarkerDarkOakLeaves
-	CircularSunandMoon
-	EnderDragonElytra
-	FencierFences
-	SplashXpBottle
-	AshlessCampfires
-	AnimatedCampfireItem
-	DarkOakSaturation
-	BlackNetherBricks
+	SmallerUtilities
+	ShortSwords
+	NoPumpkinOverlay
+	LowerShield
+	UnobtrusiveScaffolding
+	UnobtrusiveRain
+	PingColorIndicator
+	WitherHearts
+	NoJavaEditionTitle
+	HotbarSlotHighlight
+	NumberedHotbar
+	OldCobblestone
+	OldDamageSounds
+	BedIcons
+	ScreamingGoatMeme
+	WhatSpyglassMeme
+	UniqueDyes
+	DoubleSlabFix
+	BlazeFix
+	PixelConsistentSigns
+	PixelConsistentGhast
+	ConsistentUIFix
 	WhiterSnow
 	VisualCauldronStages
 	VisibleTripwires
