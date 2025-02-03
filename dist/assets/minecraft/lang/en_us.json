@@ -7,6 +7,7 @@
   "multiplayer.title": "",
   "lanServer.scanning": "",
   "container.crafting": "",
+  "title.credits": "© Mojang AB",
   // Modular Respacks: Logical GUI
   "gui.done": "Save",
   "selectServer.direct": "by IP",
