@@ -17,3 +17,7 @@ Also, I might be able to find the origins of some of the stuff that's in here. W
 - \*\_log.png
 - \*\_log_top.png
 - \*\_planks.png
+
+## Contribution notes
+
+- Note that if you're modifying files that, in the vanilla MineCraft resource pack, were accompanied with a `.mcmeta` file — you have to copy/create it as well. Otherwise, the default `.mcmeta` files will not be binded to your `.png`s. Example: `./dist/assets/minecraft/textures/gui/sprites/widget/button.png.mcmeta`, you can try deleting this and see how the button rendering breaks.
