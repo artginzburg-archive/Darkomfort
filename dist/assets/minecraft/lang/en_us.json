@@ -1,13 +1,16 @@
 {
-  "container.enchant": "§b§k..§r§6Enchant§b§k..",
+  // Category: VanillaTweaks compatibility
   "container.brewing": "\u00a7f\ueff1\u00a7r                  §6Brewing                   \u00a7f\ueff2",
+  // Category: Fun
+  "container.enchant": "§b§k..§r§6Enchant§b§k..",
   "block.minecraft.bed.not_safe": "You may not rest now; there are hot singles nearby",
-  "selectWorld.version": "v:",
   // Modular Respacks: Minimal UI
   "multiplayer.title": "",
   "lanServer.scanning": "",
   "container.crafting": "",
   "title.credits": "© Mojang AB",
+  "selectWorld.version": "v:",
+  "block.minecraft.bed.too_far_away": "The bed is too far away",
   // Modular Respacks: Logical GUI
   "gui.done": "Save",
   "selectServer.direct": "by IP",
