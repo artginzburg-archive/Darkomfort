@@ -1,76 +1,59 @@
 Vanilla Tweaks Resource Pack
 Version: 1.21
 Packs:
-	EnderDragonElytra
-	FencierFences
-	SplashXpBottle
-	AshlessCampfires
-	AnimatedCampfireItem
+	NoJavaEditionTitle
+	SmallerUtilities
+	ShortSwords
 	DarkOakSaturation
-	BlackNetherBricks
-	ShorterTallGrass
-	ShorterGrass
-	ClearerWater
-	DarkerDarkOakLeaves
+	ColoredGlintRainbow
+	3DRails
+	BedrockPistonArms
+	PixelConsistentSigns
+	PixelConsistentGhast
+	ConsistentUIFix
+	DoubleSlabFix
+	UniqueDyes
+	ScreamingGoatMeme
+	WhatSpyglassMeme
+	OldDamageSounds
+	BedIcons
+	OldCobblestone
+	PingColorIndicator
+	WitherHearts
+	HotbarSlotHighlight
+	NumberedHotbar
+	NoPumpkinOverlay
+	LowerShield
+	UnobtrusiveScaffolding
+	UnobtrusiveRain
+	UnobtrusiveParticles
 	ClearBannerPatterns
 	VisualSaplingGrowth
-	VisualComposterStages
-	VisualHoney
-	BrewingGuide
-	GroovyLevers
-	CleanRedstoneDust
-	DirectionalDispensersDroppers
-	DirectionalHoppers
-	MusicDiscRedstonePreview
 	Age25Kelp
 	FullAgeAmethystMarker
 	VisualWaxedCopperItems
 	VisualInfestedStoneItems
 	BuddingAmethystBorders
 	SuspiciousSandGravelBorders
-	NoteblockBanners
-	SmallerUtilities
-	ShortSwords
-	NoPumpkinOverlay
-	LowerShield
-	UnobtrusiveScaffolding
-	UnobtrusiveRain
-	PingColorIndicator
-	WitherHearts
-	NoJavaEditionTitle
-	HotbarSlotHighlight
-	NumberedHotbar
-	OldCobblestone
-	OldDamageSounds
-	BedIcons
-	ScreamingGoatMeme
-	WhatSpyglassMeme
-	UniqueDyes
-	DoubleSlabFix
-	BlazeFix
-	PixelConsistentSigns
-	PixelConsistentGhast
-	ConsistentUIFix
-	WhiterSnow
-	VisualCauldronStages
-	VisibleTripwires
-	TripwireHookFix
-	UnlitRedstoneOre
 	OreBorders
+	UniqueSpawnEggs
+	UniqueAxolotlBuckets
+	ShorterTallGrass
+	ShorterGrass
+	ClearerWater
+	DarkerDarkOakLeaves
+	WhiterSnow
+	EnderDragonElytra
+	FencierFences
+	SplashXpBottle
+	AshlessCampfires
+	AnimatedCampfireItem
+	BlackNetherBricks
 	FullAgeCropMarker
 	DifferentStems
 	GoldenCrown
 	ConsistentHelmets
-	JappaObserver
-	BetterObservers
-	StickyPistonSides
-	BedrockPistonArms
 
 Combined packs:
-	BedrockPistonArms+StickyPistonSides
-	BetterObservers+JappaObserver
 	ConsistentHelmets+GoldenCrown
 	DifferentStems+FullAgeCropMarker
-	OreBorders+UnlitRedstoneOre
-	TripwireHookFix+VisibleTripwires
-	VisualCauldronStages+WhiterSnow
