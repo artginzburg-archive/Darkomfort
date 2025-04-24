@@ -1,32 +1,15 @@
 Vanilla Tweaks Resource Pack
 Version: 1.21
 Packs:
-	NoJavaEditionTitle
+	DarkOakSaturation
 	SmallerUtilities
 	ShortSwords
-	DarkOakSaturation
-	ColoredGlintRainbow
-	3DRails
-	BedrockPistonArms
-	PixelConsistentSigns
-	PixelConsistentGhast
-	ConsistentUIFix
-	DoubleSlabFix
-	UniqueDyes
-	ScreamingGoatMeme
-	WhatSpyglassMeme
-	OldDamageSounds
-	BedIcons
-	OldCobblestone
-	PingColorIndicator
-	WitherHearts
-	HotbarSlotHighlight
-	NumberedHotbar
-	NoPumpkinOverlay
-	LowerShield
-	UnobtrusiveScaffolding
-	UnobtrusiveRain
-	UnobtrusiveParticles
+	NoJavaEditionTitle
+	ShorterTallGrass
+	ShorterGrass
+	ClearerWater
+	DarkerDarkOakLeaves
+	WhiterSnow
 	ClearBannerPatterns
 	VisualSaplingGrowth
 	Age25Kelp
@@ -38,17 +21,33 @@ Packs:
 	OreBorders
 	UniqueSpawnEggs
 	UniqueAxolotlBuckets
-	ShorterTallGrass
-	ShorterGrass
-	ClearerWater
-	DarkerDarkOakLeaves
-	WhiterSnow
+	OldDamageSounds
+	BedIcons
+	OldCobblestone
+	ScreamingGoatMeme
+	WhatSpyglassMeme
+	UniqueDyes
+	PixelConsistentSigns
+	PixelConsistentGhast
+	ConsistentUIFix
+	DoubleSlabFix
+	BedrockPistonArms
+	3DRails
 	EnderDragonElytra
 	FencierFences
 	SplashXpBottle
 	AshlessCampfires
 	AnimatedCampfireItem
 	BlackNetherBricks
+	NoPumpkinOverlay
+	LowerShield
+	UnobtrusiveScaffolding
+	UnobtrusiveRain
+	UnobtrusiveParticles
+	PingColorIndicator
+	WitherHearts
+	HotbarSlotHighlight
+	NumberedHotbar
 	FullAgeCropMarker
 	DifferentStems
 	GoldenCrown
