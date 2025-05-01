@@ -36,7 +36,6 @@ Packs:
 	ScreamingGoatMeme
 	ShorterGrass
 	ShorterTallGrass
-	ShortSwords
 	SmallerUtilities
 	SplashXpBottle
 	SuspiciousSandGravelBorders
