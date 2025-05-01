@@ -1,57 +1,57 @@
 Vanilla Tweaks Resource Pack
 Version: 1.21
 Packs:
-	DarkOakSaturation
-	SmallerUtilities
-	ShortSwords
-	NoJavaEditionTitle
-	ShorterTallGrass
-	ShorterGrass
-	ClearerWater
-	DarkerDarkOakLeaves
-	WhiterSnow
-	ClearBannerPatterns
-	VisualSaplingGrowth
-	Age25Kelp
-	FullAgeAmethystMarker
-	VisualWaxedCopperItems
-	VisualInfestedStoneItems
-	BuddingAmethystBorders
-	SuspiciousSandGravelBorders
-	OreBorders
-	UniqueSpawnEggs
-	UniqueAxolotlBuckets
-	OldDamageSounds
-	BedIcons
-	OldCobblestone
-	ScreamingGoatMeme
-	WhatSpyglassMeme
-	UniqueDyes
-	PixelConsistentSigns
-	PixelConsistentGhast
-	ConsistentUIFix
-	DoubleSlabFix
-	BedrockPistonArms
 	3DRails
+	Age25Kelp
+	AnimatedCampfireItem
+	AshlessCampfires
+	BedIcons
+	BedrockPistonArms
+	BlackNetherBricks
+	BuddingAmethystBorders
+	ClearBannerPatterns
+	ClearerWater
+	ConsistentHelmets
+	ConsistentUIFix
+	DarkerDarkOakLeaves
+	DarkOakSaturation
+	DifferentStems
+	DoubleSlabFix
 	EnderDragonElytra
 	FencierFences
-	SplashXpBottle
-	AshlessCampfires
-	AnimatedCampfireItem
-	BlackNetherBricks
-	NoPumpkinOverlay
-	LowerShield
-	UnobtrusiveScaffolding
-	UnobtrusiveRain
-	UnobtrusiveParticles
-	PingColorIndicator
-	WitherHearts
-	HotbarSlotHighlight
-	NumberedHotbar
+	FullAgeAmethystMarker
 	FullAgeCropMarker
-	DifferentStems
 	GoldenCrown
-	ConsistentHelmets
+	HotbarSlotHighlight
+	LowerShield
+	NoJavaEditionTitle
+	NoPumpkinOverlay
+	NumberedHotbar
+	OldCobblestone
+	OldDamageSounds
+	OreBorders
+	PingColorIndicator
+	PixelConsistentGhast
+	PixelConsistentSigns
+	ScreamingGoatMeme
+	ShorterGrass
+	ShorterTallGrass
+	ShortSwords
+	SmallerUtilities
+	SplashXpBottle
+	SuspiciousSandGravelBorders
+	UniqueAxolotlBuckets
+	UniqueDyes
+	UniqueSpawnEggs
+	UnobtrusiveParticles
+	UnobtrusiveRain
+	UnobtrusiveScaffolding
+	VisualInfestedStoneItems
+	VisualSaplingGrowth
+	VisualWaxedCopperItems
+	WhatSpyglassMeme
+	WhiterSnow
+	WitherHearts
 
 Combined packs:
 	ConsistentHelmets+GoldenCrown
