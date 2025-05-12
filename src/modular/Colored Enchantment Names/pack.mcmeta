@@ -2,6 +2,6 @@
   "pack": {
     "pack_format": 15,
     "description": "§dColored Enchantment Names§r\nfrom §fModular Respacks",
-    "supported_formats": [15, 46]
+    "supported_formats": [15, 59]
   }
 }

@@ -30,28 +30,28 @@
             "description": "Information about the resource pack",
             "properties": {
               "pack_format": {
-                "default": 46,
+                "default": 59,
                 "type": "integer",
                 "title": "Resource pack version",
                 "description": "https://minecraft.wiki/w/Pack_format",
-                "maximum": 46,
+                "maximum": 59,
                 "minimum": 1
               },
               "supported_formats": {
                 "default": [
                   35,
-                  46
+                  59
                 ],
                 "type": "array",
                 "title": "Supported pack_formats",
                 "minItems": 2,
                 "maxItems": 2,
                 "items": {
-                  "default": 46,
+                  "default": 59,
                   "type": "integer",
                   "title": "Resource pack version",
                   "description": "https://minecraft.wiki/w/Pack_format",
-                  "maximum": 46,
+                  "maximum": 59,
                   "minimum": 1
                 }
               },
